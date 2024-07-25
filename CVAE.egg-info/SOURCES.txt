@@ -1,0 +1,9 @@
+README.md
+setup.py
+CVAE/CVAE.py
+CVAE/__init__.py
+CVAE.egg-info/PKG-INFO
+CVAE.egg-info/SOURCES.txt
+CVAE.egg-info/dependency_links.txt
+CVAE.egg-info/requires.txt
+CVAE.egg-info/top_level.txt
